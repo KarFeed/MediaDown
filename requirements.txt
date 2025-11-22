@@ -1,0 +1,9 @@
+# ---------- FILE: requirements.txt ----------
+yt-dlp
+psycopg2-binary
+python-telegram-bot==13.15
+requests
+moviepy
+Pillow
+python-dotenv
+aiohttp
